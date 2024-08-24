@@ -1,0 +1,46 @@
+17:07:42	 From Lixing Liu : no
+17:07:49	 From Lixing Liu : 没
+17:08:56	 From Lixing Liu : 封装，多台，继承，abstract
+17:09:21	 From Lixing Liu : 输入法
+17:09:22	 From Lixing Liu : 卧槽
+17:09:26	 From Lixing Liu : 我的
+17:09:27	 From Lixing Liu : 。。
+17:10:30	 From Lixing Liu : 这个 教案 我们在哪里能看呀
+17:11:47	 From yihui : 可以讲课用英文，问问题回答问题用中文吗？
+17:12:22	 From Lixing Liu : 有投票
+17:12:28	 From Lixing Liu : 可以投
+17:12:36	 From Lixing Liu : 中文
+17:13:39	 From Tong Zhang : 你继续维持刚刚风格就可以
+17:13:44	 From Tong Zhang : 麻烦了
+17:14:12	 From Tong Zhang : 对的
+17:14:18	 From Tong Zhang : 认同
+17:15:47	 From zhangyiran : okay
+17:15:49	 From Tong Zhang : Yes.
+17:15:50	 From Lixing Liu : 1
+17:18:47	 From Lixing Liu : bark
+17:37:04	 From Lixing Liu : 我想，可以下课
+17:48:41	 From marketing mi : vim
+17:54:57	 From Lixing Liu : 1
+17:55:00	 From Rong : 1
+17:55:02	 From zhangyiran : 1
+17:55:03	 From Tong Zhang : 1
+18:05:46	 From marketing mi : https://nodejs.org/en
+18:06:23	 From marketing mi : https://nodejs.cn/
+18:07:25	 From marketing mi : https://nodejs.cn/api/
+18:17:16	 From marketing mi : Var let const
+18:28:14	 From marketing mi : https://www.w3schools.com/js/js_operators.asp
+18:29:54	 From marketing mi : const a = "3"
+undefined
+const b = "7"
+18:29:57	 From Lixing Liu : A-b
+18:30:08	 From Lixing Liu : ascii
+18:35:17	 From marketing mi : Instantiation
+18:35:22	 From marketing mi : Instantiation
+18:36:40	 From marketing mi : Attributes
+18:39:03	 From marketing mi : Constructor/desconstructor
+18:47:42	 From marketing mi : https://www.w3schools.com/js/js_scope.asp
+18:47:49	 From marketing mi : Geeksforgeeks
+18:52:47	 From yihui : Reacted to "Constructor/descon..." with 😮
+18:58:06	 From marketing mi : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+19:05:06	 From yihui : ok
+19:05:21	 From Lixing Liu : 谢谢老师
